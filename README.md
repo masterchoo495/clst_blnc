@@ -9,7 +9,14 @@
 ### Решение
 
 Запуск двух simple python серверов на моей виртуальной машине на разных портах
-[!alt_text]()
+![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/001.png)  
+
+![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/002.png)  
+
+Демонстрация направления запросов на разные серверы при обращении к HAProxy  
+![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/003.png)
+
+[haproxy.cfg](https://github.com/masterchoo495/clst_blnc/blob/main/haproxy.cfg)
 
 
 ### Задание 2
