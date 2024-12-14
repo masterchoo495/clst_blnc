@@ -27,7 +27,7 @@
 
 ### Решение
 
-Запуск двух simple python серверов на моей виртуальной машине на разных портах  
+Запуск трёх simple python серверов на моей виртуальной машине на разных портах  
 ![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/004.png)  
 
 ![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/005.png)  
