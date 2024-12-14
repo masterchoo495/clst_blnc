@@ -35,7 +35,7 @@
 ![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/006.png)  
 
 Демонстрация направления запросов на разные серверы при обращении к HAProxy    
-![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/007.png)  
+![alt text](https://github.com/masterchoo495/clst_blnc/blob/main/008.png)  
 
 [haproxy2.cfg](https://github.com/masterchoo495/clst_blnc/blob/main/haproxy2.cfg)  
 
